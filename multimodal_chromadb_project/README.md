@@ -183,7 +183,7 @@ Text Query: vitamin C fruits
 
 ---
 
-## Resume Project Description
+## Project Description
 
 > Built a multimodal semantic search system using **ChromaDB** and **OpenCLIP** embeddings to index images and text descriptions in a shared vector space, enabling cross-modal retrieval through text-to-image and image-to-image similarity search.
 
