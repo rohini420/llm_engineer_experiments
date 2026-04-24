@@ -1,0 +1,6 @@
+chromadb
+pandas
+open_clip_torch
+Pillow
+matplotlib
+torch
